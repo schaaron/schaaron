@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Schaaron! 😁
 
  <div>
    <a href="https://github.com/schaaron">
